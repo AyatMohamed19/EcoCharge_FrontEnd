@@ -1,0 +1,13 @@
+.mapboxgl-ctrl-directions.mapboxgl-ctrl{
+    overflow: scroll;
+    height: 400px;
+}
+.directions-icon.directions-icon-reverse.directions-reverse.js-reverse-inputs{
+    display: none;
+}
+.suggestions-wrapper{
+    background-color: white;
+}
+.geocoder-pin-right{
+    display: none;
+}
